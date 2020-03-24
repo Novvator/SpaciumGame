@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Specific unwanted files
+*Intermediate\CachedAssetRegistry.bin
+*Saved\Config\Windows\EditorPerProjectUserSettings.ini
+*Saved\Logs\SpaciumGame.log
+
+
